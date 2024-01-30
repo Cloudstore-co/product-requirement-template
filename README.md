@@ -1,14 +1,14 @@
 Sure, here's a template for a Product Design Requirement Document (PDRD):
 
-# Product Design Requirement Document (PDRD)
+# Product Requirement Document (PRD)
 
 ## Project Overview
 
-**Project Name:** [Name of the Project]
-**Project ID:** [Project ID or Code]
-**Product Manager:** [Name of the Product Manager]
-**Designer:** [Name of the Designer]
-**Date:** [Date of Document Creation]
+##**Project Name:** [Name of the Project]
+##**Project ID:** [Project ID or Code]
+##**Product Manager:** [Name of the Product Manager]
+##**Designer:** [Name of the Designer]
+##**Date:** [Date of Document Creation]
 
 ## Table of Contents
 
